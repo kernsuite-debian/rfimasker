@@ -78,7 +78,7 @@ def define_scripts():
     return [os.path.join(pkg,"scripts",script_name) for script_name in ["mask_ms.py"]]
 
 setup(name=pkg,
-      version=get_version(),
+      version="0.0.1",
       description='Tool to apply rfi masks to measurement sets',
       long_description=readme(),
       url='',
