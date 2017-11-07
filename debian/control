@@ -1,9 +1,9 @@
 Source: rfimasker
 Section: python
 Priority: optional
-Maintainer: Gijs Molenaar <gijs@pythonic.nl>
+Maintainer: KERN packaging <packaging@kernsuite.info>
 Build-Depends: debhelper (>= 9), dh-python, python-all, python-setuptools, python-numpy
-Standards-Version: 3.9.4
+Standards-Version: 3.9.6
 Homepage: https://github.com/bennahugo/RFIMasker
 Vcs-Git: git://github.com/kernsuite-debian/rfimasker.git
 Vcs-Browser: https://github.com/kernsuite-debian/rfimasker

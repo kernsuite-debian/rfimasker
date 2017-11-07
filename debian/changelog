@@ -1,3 +1,11 @@
+rfimasker (1.0-1kern1) xenial; urgency=medium
+
+  * make debian files mit
+  * add watch file
+  * Imported Upstream version 1.0
+
+ -- KERN packaging <packaging@kernsuite.info>  Tue, 07 Nov 2017 16:36:47 +0200
+
 rfimasker (0.0.1-1) xenial; urgency=low
 
   * Initial release
