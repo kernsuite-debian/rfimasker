@@ -1,9 +1,7 @@
-rfimasker (1.0.1-1) UNRELEASED; urgency=medium
+rfimasker (1.0.1-1kern1) xenial; urgency=medium
 
-  [ Gijs Molenaar ]
   * New upstream version 1.0.1
-
-  [ KERN packaging ]
+  * small package improvements
 
  -- KERN packaging <packaging@kernsuite.info>  Tue, 03 Apr 2018 12:09:09 +0200
 
