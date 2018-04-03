@@ -6,10 +6,3 @@ export PYBUILD_NAME=rfimasker
 
 %:
 	dh $@ --with python2 --buildsystem=pybuild
-
-override_dh_auto_clean:
-	dh_clean
-	rm -rf .pybuild
-	rm -rf build
-	rm -rf *.egg-info
-

@@ -14,3 +14,7 @@ Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}, ${python:Depends}, python-numpy, python-casacore
 Description: Tool to apply RFI masks
 
+Package: rfimasker
+Architecture: any
+Depends: python-rfimasker
+Description: Tool to apply RFI masks

@@ -1,0 +1,3 @@
+.pybuild/
+build/
+*.egg-info/

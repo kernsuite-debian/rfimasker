@@ -1,13 +1,13 @@
-Description: fix the version number
+Description: manually specify verison
 
---- rfimasker-0.0.1.orig/setup.py
-+++ rfimasker-0.0.1/setup.py
-@@ -78,7 +78,7 @@ def define_scripts():
+--- rfimasker-1.0.1.orig/setup.py
++++ rfimasker-1.0.1/setup.py
+@@ -74,7 +74,7 @@ def define_scripts():
      return [os.path.join(pkg,"scripts",script_name) for script_name in ["mask_ms.py"]]
  
  setup(name=pkg,
 -      version=get_version(),
-+      version="0.0.1",
++      version="1.0.1",
        description='Tool to apply rfi masks to measurement sets',
        long_description=readme(),
-       url='',
+       url='https://github.com/bennahugo/RFIMasker',
