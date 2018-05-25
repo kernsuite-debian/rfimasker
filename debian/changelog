@@ -1,3 +1,9 @@
+rfimasker (1.0.1-1kern2) bionic; urgency=medium
+
+  * Make new upstream release for bionic
+
+ -- KERN packaging <packaging@kernsuite.info>  Fri, 25 May 2018 13:29:08 +0000
+
 rfimasker (1.0.1-1kern1) xenial; urgency=medium
 
   * New upstream version 1.0.1
