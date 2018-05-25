@@ -1,4 +1,4 @@
-Description: manually specify verison
+Description: manually specify version
 
 --- rfimasker-1.0.1.orig/setup.py
 +++ rfimasker-1.0.1/setup.py
