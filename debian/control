@@ -16,5 +16,5 @@ Description: Tool to apply RFI masks
 
 Package: rfimasker
 Architecture: any
-Depends: python-rfimasker
+Depends: ${misc:Depends}, python-rfimasker
 Description: Tool to apply RFI masks
